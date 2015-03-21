@@ -125,11 +125,11 @@
     <system:String x:Key="Checking">Kiểm tra...</system:String>
     <system:String x:Key="Updated">Cập nhật</system:String>
     <system:String x:Key="OUTDATED">Lỗi thời</system:String>
-    <system:String x:Key="Unknown">Không biết</system:String>
+    <system:String x:Key="Unknown">chả biết</system:String>
     <system:String x:Key="UpdateStatus">Trạng thái</system:String>
 
     <system:String x:Key="LoaderUpdateFailed">Không thể tải bản cập nhật, vui lòng cập nhật bằng tay.</system:String>
-    <system:String x:Key="LeagueNotFound">Không thể giải quyết "League of Legends.exe" vị trí, hãy thử bắt đầu một trò chơi tùy chỉnh</system:String>
+    <system:String x:Key="LeagueNotFound">"League of Legends.exe" không đúng rồi mày</system:String>
     <system:String x:Key="UpdateSuccess">LeagueSharp đã cập nhật thành công cho phiên bản của bạn</system:String>
     <system:String x:Key="UpdateUnknown">Không thể cập nhật L# cho phiên bản League of legends của bạn</system:String>
     <system:String x:Key="NotUpdateNeeded">LeagueSharp đã cập nhật cho League of legends của bạn</system:String>
